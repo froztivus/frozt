@@ -1,2 +1,0 @@
-# frozt
-trying to learn
